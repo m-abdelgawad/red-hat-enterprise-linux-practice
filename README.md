@@ -212,7 +212,7 @@ done with screenshots; so that I can use it as a reference.
 
 This project was developed using the following tech stacks:
 
-* RedHat Enterpise Linux
+* RedHat Enterprise Linux
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
