@@ -56,7 +56,7 @@ Since I am using a RedHat Enterprise Linux server at work, I thought it
 would be a good idea to install a similar server in VMware Work Station 
 and explore it on my own. I documented all the actions and commands I have 
 done with screenshots; so that I can use it as a reference.
-* 
+
 * Installation
 
 <img src="images/0-installtion-1.png">
