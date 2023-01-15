@@ -1,7 +1,0 @@
-Install Python
-Install Python devel
-Install all required python packages
-Install nginx
-Install postgres
-Create temp django project
-Install certificate
